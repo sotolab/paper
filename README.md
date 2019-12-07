@@ -1,4 +1,20 @@
 # paper
+
+
+https://developer.uport.me/credentials/transactions
+
+https://developer.uport.me/credentials/transactions
+해당 코드 내용대로 코딩을 먼저함
+
+
+
+로그인
+MYAPPS
+
+
+
+
+
 paper
 
 Kolias, Konstantinos, et al. "Leveraging Blockchain‐based protocols in IoT systems." (2016).
